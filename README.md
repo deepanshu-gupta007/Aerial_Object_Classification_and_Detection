@@ -53,7 +53,6 @@ Project_3_Aerial_Object_Classification_&_Detection/
 │
 ├── Aerial Object Classification & Detection.docx   # Project brief & problem statement
 ├── Aerial_Object_Classification_Report.docx        # Full technical report
-├── Explanatory_Video.mp4                           # Narrated video walkthrough
 │
 └── Development/
     ├── assets/                                     # Saved visualisation PNGs
