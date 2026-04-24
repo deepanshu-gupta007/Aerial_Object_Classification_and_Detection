@@ -1,0 +1,7 @@
+names:
+- Bird
+- Drone
+nc: 2
+test: C:\Deepanshu_PC\Internships\Labmentix\Data_Science_with_AI\Project_3_Aerial_Object_Classification_&_Detection\object_detection_Dataset\test\images
+train: C:\Deepanshu_PC\Internships\Labmentix\Data_Science_with_AI\Project_3_Aerial_Object_Classification_&_Detection\object_detection_Dataset\train\images
+val: C:\Deepanshu_PC\Internships\Labmentix\Data_Science_with_AI\Project_3_Aerial_Object_Classification_&_Detection\object_detection_Dataset\valid\images
